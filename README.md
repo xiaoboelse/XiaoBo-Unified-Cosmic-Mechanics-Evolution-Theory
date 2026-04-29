@@ -1,10 +1,11 @@
 # Unified Cosmic Mechanics Evolution Theory
 ## A Complete, Self-Consistent, Fundamental Framework for Physics
 
-This paper series is part of the **Unified Cosmic Mechanics Evolution Theory** framework, which systematically reconstructs the foundations of physics from first principles.
+This paper series is part of the "Unified Cosmic Mechanics Evolution Theory" framework, which systematically reconstructs the foundations of physics from first principles.
 
-The complete framework comprehensively reconciles classical mechanics, relativity, and quantum mechanics.
-It reconstructs the basic logic of the entire physical system, including:
+The new theoretical system achieves systematic natural compatibility with conventional theories from three essential aspects: 
+"logical self-consistency, mathematical formalization, and consistency with all physical experiments and natural phenomena".
+It comprehensively reconciles classical mechanics, relativity, and quantum mechanics, and reconstructs the basic logic of the entire physical system, including:
 - The normalized origins of mass, energy, force, and momentum
 - The wave-particle duality problem
 - The origin of gravity
