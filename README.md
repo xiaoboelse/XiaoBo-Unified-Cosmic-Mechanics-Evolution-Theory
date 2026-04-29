@@ -51,3 +51,15 @@ Therefore, all formal publications and validations are now hosted and progressin
 21. Unified Cosmic Mechanics Evolution Theory (XXI): Large-Scale Galaxy Co-Evolution — Momentum Deviation Unloading and Reticulate Gravitational Model
 22. Unified Cosmic Mechanics Evolution Theory (XXII): Cosmic Free-Steady-State Binary Game Evolution — Natural Evolution vs. Unnatural Evolution
 23. Unified Cosmic Mechanics Evolution Theory (XXIII): Numerical Simulation of No-Delay Gravitational Interaction & Reticulate Gravity Dynamics (CONVERGED & VERIFIED)
+---
+
+## License & Copyright Statement
+This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** License.
+
+### Terms:
+1. **Attribution**: Any use, reproduction, or distribution of this framework, papers, formulas, theoretical logic, and content must retain the original author attribution and source link.
+2. **ShareAlike**: Any derivative work, adaptation, reconstruction or secondary research based on this theory must be distributed under the same CC BY-SA 4.0 license.
+3. **No Unauthorized Misappropriation**: Strictly prohibited for unauthorized plagiarism, partial copying, theory rebranding, concealed quotation, or submitting as independent original work without explicit citation.
+4. **No Commercial Misuse**: Unauthorized commercial licensing, paid reprinting, or patent application of any core theoretical content is not permitted.
+
+All theoretical frameworks, logical chains, mathematical derivations, physical models and paper series are formally archived and publicly released. Any violation will be recorded and held accountable in academic and public records.
