@@ -44,25 +44,3 @@ It provides the same mechanism, complete foundational logic, and a unified deriv
 21. Unified Cosmic Mechanics Evolution Theory (XXI): Large-Scale Galaxy Co-Evolution — Momentum Deviation Unloading and Reticulate Gravitational Model
 22. Unified Cosmic Mechanics Evolution Theory (XXII): Cosmic Free-Steady-State Binary Game Evolution — Natural Evolution vs. Unnatural Evolution
 23. Unified Cosmic Mechanics Evolution Theory (XXIII): Numerical Simulation of No-Delay Gravitational Interaction & Reticulate Gravity Dynamics (CONVERGED & VERIFIED)
-
-    ## ⚠️ Important Notice: Academic Suppression
-
-This research has been subjected to systematic, unexplained removal from public academic infrastructure.
-
-**Facts:**
-- A DOI was assigned to this work by CERN/Zenodo, confirming its status as a citable academic document.
-- Subsequently, the DOI was deleted and the work was taken down **without any prior notice, explanation, or due process**.
-- Multiple preprint platforms (including MetaArXiv) have rejected submissions with the sole reason "outside the scope," without engaging with the mathematical or logical content.
-- To date, no platform has provided a substantive, content-based justification for rejection, nor has any specific technical or formal error been identified.
-
-**Conclusion:**
-This pattern of behavior constitutes a de facto **academic suppression** — a refusal to engage with, or even allow access to, a coherent, first-principles framework that challenges paradigm assumptions.
-
-**Documentation:**
-- Correspondence and takedown records are archived here: [`/docs/evidence`](./docs/evidence)
-- The full 23‑paper series remains available in this repository, which serves as the permanent, citable archive.
-
-**Statement:**
-> *This work is not being removed from public discourse. It is being deliberately excluded from institutional platforms. The undersigned therefore makes it permanently available here, outside the control of any single journal, preprint server, or institution.*
-
-— Xiao Bo
