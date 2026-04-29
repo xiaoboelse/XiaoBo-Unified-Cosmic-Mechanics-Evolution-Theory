@@ -5,14 +5,14 @@ This paper series is part of the "Unified Cosmic Mechanics Evolution Theory" fra
 
 The complete framework comprehensively reconciles classical mechanics, relativity, and quantum mechanics.
 It reconstructs the basic logic of the entire physical system, including:
-- The normalized origins of mass, energy, force, and momentum
+- The normalized origins of mass, energy, force, momentum, and the nature of spacetime
 - The wave-particle duality problem
 - The origin of gravity
 - The dark matter problem
 - The dark energy problem
 - The Hubble tension
 - The measurement problem in quantum mechanics
-- And other core foundational issues
+- And other core issues — all with complete mathematical verification
 
 All contents include complete mathematical verification, numerical simulation validation, and observational consistency checks.
 
